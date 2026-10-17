@@ -1,1 +1,3 @@
-# AI-dev-bootcamp
+# Uygulamalı Yapay Zeka Geliştirme Bootcamp
+
+## Techİstanbul
